@@ -12,6 +12,7 @@ http://www.vim.org/<br>
 https://gcc.gnu.org/<br>
 https://www.gnu.org/<br>
 https://trello.com/<br>
+https://www.lucidchart.com/<br>
 # MASTER CLASS
 https://www.youtube.com/channel/UCS2e0hEJMhwd6bNscS60xTg/<br>
 https://jasonchampagne.fr/<br>
