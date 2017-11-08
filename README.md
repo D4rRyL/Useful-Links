@@ -14,9 +14,9 @@ https://gcc.gnu.org/
 
 # MASTER CLASS
 
-https://jasonchampagne.fr/
+https://jasonchampagne.fr
 https://www.youtube.com/channel/UCS2e0hEJMhwd6bNscS60xTg
-http://www.multiparadigme.org/
+http://www.multiparadigme.org
 
 # ENVIRONMENT
 
