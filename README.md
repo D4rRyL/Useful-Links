@@ -1,13 +1,19 @@
 # ENVIRONMENT
-http://ohmyz.sh<br>
+http://www.zsh.org/<br>
+http://ohmyz.sh/<br>
 # GIT
-https://git-scm.com/book/fr/v2<br>
+https://github.com/<br>
+https://git-scm.com/book/fr/v2/<br>
 # WEB
-https://stackoverflow.com<br>
+https://stackoverflow.com/<br>
+https://openclassrooms.com/<br>
 # TOOLS
-http://www.vim.org<br>
-https://gcc.gnu.org<br>
+http://www.vim.org/<br>
+https://gcc.gnu.org/<br>
+https://www.gnu.org/<br>
+https://trello.com/<br>
 # MASTER CLASS
-https://www.youtube.com/channel/UCS2e0hEJMhwd6bNscS60xTg<br>
-https://jasonchampagne.fr<br>
-http://www.multiparadigme.org<br>
+https://www.youtube.com/channel/UCS2e0hEJMhwd6bNscS60xTg/<br>
+https://jasonchampagne.fr/<br>
+http://www.multiparadigme.org/<br>
+https://www.cmath.fr/<br>
