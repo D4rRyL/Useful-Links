@@ -14,7 +14,7 @@ https://gcc.gnu.org/
 
 # MASTER CLASS
 
-https://www.youtube.com/channel/UCS2e0hEJMhwd6bNscS60xTg
+https://www.youtube.com/channel/UCS2e0hEJMhwd6bNscS60xTg \n
 https://jasonchampagne.fr
 http://www.multiparadigme.org
 
